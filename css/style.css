@@ -52,3 +52,15 @@ body {
 .nav__link:hover {
 	color: brown;
 }
+.intro__title{
+	font-size: 150px;
+	font-weight: 700;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 1;
+}
+.intro__inner{
+	width: 100%;
+	max-width: 880px;
+	margin: 0 auto;
+}
