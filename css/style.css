@@ -16,3 +16,18 @@ body {
 	max-width: 1200px;
 	margin: 0 auto;
 }
+/*intro*/
+.intro {
+	width: 100%;
+	height: 100vh;
+	background: #999;
+}
+/*Header*/
+.header {
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 1000;
+}
