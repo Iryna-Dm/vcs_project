@@ -20,7 +20,9 @@ body {
 .intro {
 	width: 100%;
 	height: 100vh;
-	background: #999;
+	background: url("../image/sky.jpg") center no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
 }
 /*Header*/
 .header {
