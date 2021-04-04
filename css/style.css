@@ -33,3 +33,17 @@ body {
 	right: 0;
 	z-index: 1000;
 }
+.nav {
+	font-style: 14px;
+	text-transform: uppercase;
+}
+.nav__link {
+	color: black;
+	vertical-align: top;
+	display: inline-block;
+	text-decoration: none;
+	margin: 10px;
+}
+.nav__link:hover {
+	color: brown;
+}
